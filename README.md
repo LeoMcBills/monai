@@ -1,0 +1,1 @@
+# Pytorch image segmentation course with monai
